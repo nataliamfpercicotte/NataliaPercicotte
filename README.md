@@ -1,4 +1,5 @@
-Olá! 👋 Sou a Natália
+Olá! 
+Sou a Natália
 
 Sou uma profissional em transição de carreira para a área de Quality Assurance (QA), apaixonada por tecnologia, organização e melhoria contínua.
 
