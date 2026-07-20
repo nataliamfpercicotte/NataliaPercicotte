@@ -1,5 +1,4 @@
-Olá! 
-Sou a Natália
+# Olá, me chamo Natalia Percicotte!
 
 Sou uma profissional em transição de carreira para a área de Quality Assurance (QA), apaixonada por tecnologia, organização e melhoria contínua.
 
@@ -22,4 +21,3 @@ VS Code
 DevTools
 
 💡 Meu objetivo é contribuir para o desenvolvimento de produtos confiáveis, oferecendo qualidade desde as primeiras etapas do processo e aprendendo continuamente como QA.
-# NataliaPercicotte
