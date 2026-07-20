@@ -8,16 +8,16 @@ Recentemente concluí minha formação prática em QA pela TripleTen, onde desen
 
 Atualmente estou aprofundando meus conhecimentos em automação de testes e construindo projetos para compartilhar minha evolução como QA.
 
-🚀 Tecnologias e Ferramentas
-Python
-Selenium WebDriver
-PyTest
-Postman
-SQL
-Jira
-Git & GitHub
-Figma
-VS Code
-DevTools
+🚀 Tecnologias e Ferramentas:
+Python,
+Selenium WebDriver,
+PyTest,
+Postman,
+SQL,
+Jira,
+Git & GitHub,
+Figma,
+VS Code,
+DevTools.
 
 💡 Meu objetivo é contribuir para o desenvolvimento de produtos confiáveis, oferecendo qualidade desde as primeiras etapas do processo e aprendendo continuamente como QA.
