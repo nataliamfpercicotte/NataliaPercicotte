@@ -21,4 +21,5 @@ Figma
 VS Code
 DevTools
 
-💡 Meu objetivo é contribuir para o desenvolvimento de produtos confiáveis, oferecendo qualidade desde as primeiras etapas do processo e aprendendo continuamente como QA.# NataliaPercicotte
+💡 Meu objetivo é contribuir para o desenvolvimento de produtos confiáveis, oferecendo qualidade desde as primeiras etapas do processo e aprendendo continuamente como QA.
+# NataliaPercicotte
